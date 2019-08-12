@@ -1,1 +1,1 @@
-# githubRepositoryTemplate
+# MyRepositoryTemplate

@@ -1,0 +1,9 @@
+docs/*
+!.gitkeep
+
+design/*
+!.gitkeep
+
+# node.js
+package.json
+node_modules/
